@@ -1,4 +1,9 @@
-# TimooviesApp
+# Timoovies
+## Timoovies App
+This project holds the frontend associated with the Timoovies application.
+It contains the routing and views needed for a great ui design.
+
+### Launching
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
 
